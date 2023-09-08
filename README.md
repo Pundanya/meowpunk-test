@@ -5,6 +5,12 @@
 # Meowpunk test
 
 Meowpunk test tasks
+
+## Work example
+
+Updated cheaters.db on Google drive:
+https://drive.google.com/file/d/1GhyMdLiQl7bciN8M3kZlo_k_5JUKW6Ux/
+
 ## FAQ
 
 #### Meow?
